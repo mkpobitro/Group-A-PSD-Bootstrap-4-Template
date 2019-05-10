@@ -1,0 +1,72 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+.custom-btn{
+  border-radius: 0 !important;
+  padding: 7px 27px !important;
+  font-size: 13px !important;
+}
+
+/* header area */
+
+
+/* bg area */
+.bg-area{
+  background: url(images/bg.png);
+  padding: 80px 0;
+}
+.bg-area h2{
+  font-size: 45px;
+}
+
+/* Servie area */
+.service-area{
+  padding: 80px 0;
+}
+
+
+/* footer area */
+.footer-area{
+  background: #3a3e64;
+}
+.footer-area p{
+  color: #bdc3c7;
+}
+
+.footer-top{
+  padding: 40px 0;
+}
+.social-icon a{
+  border: 1.7px solid #fff;
+  padding: 5px 8px;
+}
+.social-icon .fb{
+  padding: 5px 12px;
+}
+
+.footer-bottom{
+  background: #313454;
+  overflow: hidden;
+}
+
+/* Scroll to top button */
+/* Scroll btn */
+
+.scroll-btn{
+	color: #FFF;
+	background: #e74c3c;
+	position: fixed;
+	bottom: 0;
+	right: 15px;
+	padding: 8px 16px;
+	border-radius: 7px 7px 0 0;
+	z-index: 9999;
+  display: none;
+}
+
+.scroll-btn i{
+  font-size: 20px;
+}
